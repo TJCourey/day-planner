@@ -6,11 +6,12 @@ A simple Day planner as an exercise in using a number of programming languages. 
 
 ## Usage
 
-To use the program simply visit:https://tjcourey.github.io/day-planner/![Screenshot 2021-04-29 182820]
+To use the program simply visit:https://tjcourey.github.io/day-planner/
 
 
 
-Below is a screenshot of the program working on my local browser:(https://user-images.githubusercontent.com/30154584/116634245-c8511b80-a918-11eb-9c28-daf4bcbee115.png)
+Below is a screenshot of the program working on my local browser:
+![Screenshot 2021-04-29 182820](https://user-images.githubusercontent.com/30154584/116634245-c8511b80-a918-11eb-9c28-daf4bcbee115.png)
 ![Uploading Screenshot 2021-04-29 182820.png…]()
 
 
